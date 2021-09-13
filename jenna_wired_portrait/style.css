@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 20px;
+  padding: 0;
+  background-color: black;
+  color:white;
+}
+
+canvas {
+  display: block;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 60px;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
