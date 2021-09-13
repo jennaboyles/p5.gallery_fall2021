@@ -3,11 +3,11 @@
 1. Create a Github account
 2. Rename the folder that you downloaded from p5.js to yourname_title. Upload the entire folder to Github.
 3. Navigate to your folder, click on YOUR html.index and select edit. Add the line of code from the homework sheet at the bottom. Replace the last part with the exact name of your folder, capitalization matters. Commit the change.
-4. Last, naviage to the MAIN html.index (above) and select edit. Add the second line of code from the homework sheet. Replace the designated parts with your exact folder name and the text you would like to appear on the page. Commit the change.
+4. Last, naviage to the MAIN html.index (above) and select edit. Add the second line of code from slide 8. Replace the designated parts with your exact folder name and the text you would like to appear on the page. Commit the change.
 
 ## About GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jennaboyles/p5.gallery_spring2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/jennaboyles/p5.gallery_fall2021/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
