@@ -88,8 +88,10 @@ function bangs(x,y) {
 }
 
 function setup() {
- var cnv = createCanvas(windowWidth, windowHeight);
- cnv.style('display', 'block');
+ var cnv = createCanvas(100, 100);
+  var x = (windowWidth - width) / 2;
+  var y = (windowHeight - height) / 2;
+  cnv.position(x, y);
 
   background(random(255), random(255), random(255));
     strokeWeight(3)
