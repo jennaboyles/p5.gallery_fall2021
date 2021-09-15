@@ -88,9 +88,15 @@ function bangs(x,y) {
 }
 
 function setup() {
-  createCanvas(850, 700);
+  createCanvas(windowWidth, windowHeight);
   background(random(255), random(255), random(255));
     strokeWeight(3)
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+  
 }
 
 function draw() {
