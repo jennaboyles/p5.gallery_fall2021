@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  background(q, w, e);
+  background(255-q, 255-w, 255-e);
   noStroke();
   fill(0);
   ellipse(50, 50, 50);
