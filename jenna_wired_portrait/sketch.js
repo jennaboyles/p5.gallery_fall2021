@@ -87,12 +87,18 @@ function bangs(x,y) {
   endShape();
 }
 
-function setup() {
- var cnv = createCanvas(100, 100);
+var cnv;
+
+function centerCanvas() {
   var x = (windowWidth - width) / 2;
   var y = (windowHeight - height) / 2;
   cnv.position(x, y);
+}
 
+
+function setup() {
+  cnv = createCanvas(800, 800);
+  centerCanvas();
   background(random(255), random(255), random(255));
     strokeWeight(3)
 }
