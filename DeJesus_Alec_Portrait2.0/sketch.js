@@ -1,18 +1,14 @@
 let r, g, b;
-let q, w, e;
 
 function setup() {
   createCanvas(600, 600);
   r = random(255);
   g = random(255);
   b = random(255);
-  q = random(255);
-  w = random(255);
-  e = random(255);
 }
 
 function draw() {
-  background(255-q, 255-w, 255-e);
+  background(255-r, 255-g, 255-b);
   noStroke();
   fill(0);
   ellipse(50, 50, 50);
@@ -63,8 +59,5 @@ function mousePressed() {
     r = random(255);
     g = random(255);
     b = random(255);
-    q = random(255);
-    w = random(255);
-    e = random(255);
   }
 }
