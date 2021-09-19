@@ -1,0 +1,13 @@
+html, body {
+  margin:30px;
+  padding:0;
+  background-color:black;
+  color:white;
+}
+ canvas {
+  display: block;
+}
+
+ h1 {text-align:center; }
+	 p {font-size: 18px; }
+p{text-align: center}
