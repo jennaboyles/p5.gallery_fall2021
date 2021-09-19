@@ -1,32 +1,30 @@
 html {
   height: 100%;
 }
-body {
-  font-family: Arial;
-  height: 100%;
-  margin: 20px;
-}
-a {
-  color: red;
+
+font-face {
+  font-family: 'digital-7';
+  src: url("https://www.1001fonts.com/digital-7-font.html");
 }
 
-p span {
-  font-weight: bold;
+body {
+  background-color: black;
+  color: white;
+  font-family: 'digital-7', regular;
+  margin: 0;
+  padding: 0;
 }
-.header {
-  background-color: #99b5dd;
-  position: fixed;
-  top: 0px;
-  width: 100%;
-  height: 60px;
-  padding: 0px 10px;
-  font-size: 50px;
-  z-index: 10;
+
+canvas {
+  display: block;
 }
-.content {
-  position: absolute;
-  top: 60px;
-  padding: 10px;
-  margin-bottom: 60px;
-  z-index: 0;
+
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
 }
