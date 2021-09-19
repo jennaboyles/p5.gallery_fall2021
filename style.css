@@ -11,8 +11,8 @@ body {
   background-color: black;
   color: white;
   font-family: 'digital-7', regular;
-  margin: 0;
-  padding: 0;
+  margin: auto;
+  padding: 10px;
 }
 
 canvas {
