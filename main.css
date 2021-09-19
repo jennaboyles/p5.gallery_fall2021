@@ -4,15 +4,12 @@ html {
 body {
   font-family: Arial;
   height: 100%;
-  margin: 0px;
+  margin: 20px;
 }
 a {
   color: red;
 }
-img {
-  float: right;
-  width: 200px;
-}
+
 p span {
   font-weight: bold;
 }
@@ -32,12 +29,4 @@ p span {
   padding: 10px;
   margin-bottom: 60px;
   z-index: 0;
-}
-.footer {
-  background-color: #0f215d;
-  position: fixed;
-  bottom: 0px;
-  height: 60px;
-  width: 100%;
-  z-index: 10;
 }
