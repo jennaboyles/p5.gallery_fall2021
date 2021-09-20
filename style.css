@@ -12,33 +12,25 @@ body {
   background-color: black;
   color: white;
   font-family: 'digital-7', regular;
-  margin: auto;
-  width:50%
-  padding: 10px;
+
 
 }
 
 canvas {
   display: block;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
+
  
 }
 
 
 h1 {
   text-align: center;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
+
 }
 
 p {
   font-size: 18px;
-  margin: auto;
-  width: 50%;
-  padding: 10px;
+
 }
 
 .center {
