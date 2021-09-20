@@ -12,25 +12,20 @@ body {
   background-color: black;
   color: white;
   font-family: 'digital-7', regular;
-
-
 }
 
 canvas {
   display: block;
-
- 
 }
 
 
 h1 {
   text-align: center;
-
 }
 
 p {
   font-size: 18px;
-
+  text-align: center;
 }
 
 /* 
